@@ -14,3 +14,4 @@ I also listen to a lot of music, so here's a live updating banner of what my MPD
 #### Contact:
 * Matrix: @robin:matrix.robindecker.me
 * IRC: Zeyphros on libera.chat
+* Tox: F321CE5411FEDA39B22FF927ED1EBECBB6C96B8CA6798477D7050139F9EC4157BCD021FBE288
